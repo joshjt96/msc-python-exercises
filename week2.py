@@ -1,6 +1,6 @@
-# firstName = 'Josh'
-# lastName = 'Talley'
-# print('Your first name is ' + firstName + ' and your second name is ' + lastName)
+firstName = 'Josh'
+lastName = 'Talley'
+print('Your first name is ' + firstName + ' and your second name is ' + lastName)
 
 # my_string = 6 * "h" + "ello"
 # print(my_string)
@@ -13,3 +13,4 @@ string = "Turning it on is dangerous."
 uppercase = string[0].upper()
 switching = string.replace('Turning', 'Switching')
 print(switching)
+
